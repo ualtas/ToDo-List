@@ -1,4 +1,4 @@
-# ualtas-ToDo-List
+# ToDo-List
 
 Ceci est ma première application JS.
 
